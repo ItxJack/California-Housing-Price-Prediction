@@ -42,10 +42,10 @@ This repository contains two distinct Jupyter notebooks that accomplish the same
 No local installation is required. You can run both notebooks directly in your browser using Google Colab.
 
 * **Run the Exploratory Notebook:**
-    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ItxJack/California-Housing-Price-Prediction/blob/main/1_Exploratory_California_Housing.ipynb)
+    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ItxJack/California-Housing-Price-Prediction/blob/main/California_Housing_Price_Prediction.ipynb)
 
 * **Run the Consolidated Script:**
-    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ItxJack/California-Housing-Price-Prediction/blob/main/2_Consolidated_California_Housing.ipynb)
+    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ItxJack/California-Housing-Price-Prediction/blob/main/Untitled1.ipynb)
 
 ---
 
